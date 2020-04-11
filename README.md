@@ -40,4 +40,8 @@ I'll have to get back to you with that one.
 
 ![Jim Halpert GIF - Find & Share on GIPHY](https://media.giphy.com/media/jl7eVqDXCFcm4/200.gif)
 
+# DISCLAIMER
+Owner of this Github Repository assumes no Liability of use for this software. 
+Use as Directed and please, don't abuse this. 
+
 #### All Rights Reserved with Apple Inc. and iMessage.
